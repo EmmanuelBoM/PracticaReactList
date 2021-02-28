@@ -1,0 +1,55 @@
+h4{
+    margin: 0;
+}
+
+p{
+    margin: 0;
+}
+
+.contenedor{
+    font-family: 'Montserrat';
+    width: 400px;
+    background: #FFF;
+    padding: 20px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin-bottom: 30px;
+}
+
+.header{
+    font-size: 24px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header .pink-tag{
+    padding: 5px 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    font-weight: bold;
+    width: 100px;
+    background: #FF77D9;
+    border-radius: 4px;
+    color: #fff;
+}
+
+
+.header .red-tag{
+    padding: 5px 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+    font-weight: bold;
+    width: 100px;
+    background: #FF0101;
+    border-radius: 4px;
+    color: #fff;
+}
+.precio{
+    margin-top: 20px;
+    font-size: 18px;
+}

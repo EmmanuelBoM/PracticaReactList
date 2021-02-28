@@ -28,6 +28,23 @@
   color: #61dafb;
 }
 
+.container{
+  padding: 50px;
+  
+}
+
+.cont-cards{
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+Card{
+
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
